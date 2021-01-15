@@ -1,3 +1,3 @@
-# Inteligencia Artificial
+# Practicas Inteligencia Artificial
 
-## Prácticas# Inteligencia-Artificial-Practicas
+## Prácticas#
